@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 gem "sinatra", "~> 1.4.7"
 gem "sinatra-contrib", "~> 1.4.7"
-gem "rack", "~> 1.6.4"
+gem "rack", "~> 1.6.12"
 gem "sass", "~> 3.4.22"
 gem "coffee-script", "~> 2.4.1"
 gem "sprockets", "~> 3.6.0"
